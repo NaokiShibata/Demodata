@@ -1,0 +1,55 @@
+Bootstrap: docker
+From: ubuntu:22.04
+
+%post
+    # Install 
+	apt update && apt upgrade -y 
+	apt install -y \
+        wget
+
+    # make directory
+    mkdir -p /opt
+
+    # Install miniconda
+    wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh
+    bash Miniconda3-latest-Linux-x86_64.sh -b -p /opt/miniconda3
+
+    . /opt/miniconda3/etc/profile.d/conda.sh
+
+    # Activate    
+    conda activate base
+    conda update --yes --all
+
+    # set channel
+    conda config --append channels conda-forge
+    conda config --append channels bioconda
+    
+    # Install mamba
+    conda install conda-forge::mamba
+
+    # Install informatics tools
+    mamba create -n info-tools \
+    python=3.10 \
+    fastp=0.23.4 \
+    multiqc=1.21 \
+    seqkit=2.8.1 \
+    parallel \
+    aria2 \
+    pigz \
+    sra-tools=3.0 \
+    parallel-fastq-dump \
+    seqfu
+
+%environment
+    # Setting variable for run
+    export PATH=/opt:/opt/miniconda3/bin:/opt/miniconda3/envs/info-tools/bin:${PATH}
+    export LC_ALL=C.UTF-8
+
+%labels
+    Author N.Shibata
+    Build_date 2024.04.21
+    Version v1.0
+
+%help
+	This container for informatics tools with 16s amplicon sequence analysis using qiime2 version 2024.2.
+
