@@ -1,0 +1,299 @@
+Run,Sample Name,Host_age,host_sex,Sample_id,sample_set,sample_type
+SRR18794663,1089_2_S2_TCapsule 3_meta,44,female,1089,2,Capsule 3
+SRR18794664,1102_2_S2_TCapsule 2_meta,44,female,1102,2,Capsule 2
+SRR18794665,1091_2_S1_TCapsule 1_meta,44,female,1091,1,Capsule 1
+SRR18794666,2466_1_SSaliva_TSaliva_meta,55,male,2466,Saliva,Saliva
+SRR18794667,2465_1_SSaliva_TSaliva_meta,55,male,2465,Saliva,Saliva
+SRR18794668,2478_1_SStool_TStool_meta,55,male,2478,Stool,Stool
+SRR18794669,2475_1_SStool_TStool_meta,55,male,2475,Stool,Stool
+SRR18794670,1198_1_S13_TCapsule 2_meta,55,male,1198,13,Capsule 2
+SRR18794671,1197_1_S13_TCapsule 2_meta,55,male,1197,13,Capsule 2
+SRR18794672,1196_1_S13_TCapsule 2_meta,55,male,1196,13,Capsule 2
+SRR18794673,1097_1_S3_TCapsule 2_meta,55,male,1097,3,Capsule 2
+SRR18794674,1195_1_S13_TCapsule 2_meta,55,male,1195,13,Capsule 2
+SRR18794675,1194_1_S12_TCapsule 4_meta,55,male,1194,12,Capsule 4
+SRR18794676,1193_1_S12_TCapsule 4_meta,55,male,1193,12,Capsule 4
+SRR18794677,1192_1_S12_TCapsule 4_meta,55,male,1192,12,Capsule 4
+SRR18794678,1191_1_S12_TCapsule 4_meta,55,male,1191,12,Capsule 4
+SRR18794679,1190_1_S11_TCapsule 3_meta,55,male,1190,11,Capsule 3
+SRR18794680,1189_1_S11_TCapsule 3_meta,55,male,1189,11,Capsule 3
+SRR18794681,1188_1_S11_TCapsule 3_meta,55,male,1188,11,Capsule 3
+SRR18794682,1187_1_S11_TCapsule 3_meta,55,male,1187,11,Capsule 3
+SRR18794683,1186_1_S10_TCapsule 1_meta,55,male,1186,10,Capsule 1
+SRR18794684,1096_1_S3_TCapsule 1_meta,55,male,1096,3,Capsule 1
+SRR18794685,2181_15_SStool_TStool_meta,29,female,2181,Stool,Stool
+SRR18794686,2180_15_SStool_TStool_meta,29,female,2180,Stool,Stool
+SRR18794687,1110_1_S8_TCapsule 2_meta,55,male,1110,8,Capsule 2
+SRR18794688,1616_12_S5_TCapsule 1_meta,65,male,1616,5,Capsule 1
+SRR18794689,1615_12_S4_TCapsule 4_meta,65,male,1615,4,Capsule 4
+SRR18794690,1614_12_S4_TCapsule 3_meta,65,male,1614,4,Capsule 3
+SRR18794691,1613_12_S4_TCapsule 2_meta,65,male,1613,4,Capsule 2
+SRR18794692,1611_12_S3_TCapsule 4_meta,65,male,1611,3,Capsule 4
+SRR18794693,1610_12_S3_TCapsule 3_meta,65,male,1610,3,Capsule 3
+SRR18794694,1609_12_S3_TCapsule 2_meta,65,male,1609,3,Capsule 2
+SRR18794695,1608_12_S3_TCapsule 1_meta,65,male,1608,3,Capsule 1
+SRR18794696,1606_12_S2_TCapsule 2_meta,65,male,1606,2,Capsule 2
+SRR18794697,1605_12_S2_TCapsule 1_meta,65,male,1605,2,Capsule 1
+SRR18794698,1109_1_S8_TCapsule 2_meta,55,male,1109,8,Capsule 2
+SRR18794699,1604_12_S1_TCapsule 2_meta,65,male,1604,1,Capsule 2
+SRR18794700,2168_11_SStool_TStool_meta,31,female,2168,Stool,Stool
+SRR18794701,2167_11_SStool_TStool_meta,31,female,2167,Stool,Stool
+SRR18794702,2166_11_SStool_TStool_meta,31,female,2166,Stool,Stool
+SRR18794703,2165_11_SStool_TStool_meta,31,female,2165,Stool,Stool
+SRR18794704,2164_11_SStool_TStool_meta,31,female,2164,Stool,Stool
+SRR18794705,2141_11_SSaliva_TSaliva_meta,31,female,2141,Saliva,Saliva
+SRR18794706,2140_11_SSaliva_TSaliva_meta,31,female,2140,Saliva,Saliva
+SRR18794707,1636_11_S5_TCapsule 4_meta,31,female,1636,5,Capsule 4
+SRR18794708,1635_11_S5_TCapsule 3_meta,31,female,1635,5,Capsule 3
+SRR18794709,1108_1_S8_TCapsule 2_meta,55,male,1108,8,Capsule 2
+SRR18794710,1634_11_S5_TCapsule 2_meta,31,female,1634,5,Capsule 2
+SRR18794711,1667_13_S5_TCapsule 4_meta,43,male,1667,5,Capsule 4
+SRR18794712,1666_13_S5_TCapsule 3_meta,43,male,1666,5,Capsule 3
+SRR18794713,1132_1_S9_TCapsule 4_meta,55,male,1132,9,Capsule 4
+SRR18794714,1665_13_S5_TCapsule 2_meta,43,male,1665,5,Capsule 2
+SRR18794715,1664_13_S5_TCapsule 1_meta,43,male,1664,5,Capsule 1
+SRR18794716,1663_13_S4_TCapsule 4_meta,43,male,1663,4,Capsule 4
+SRR18794717,1662_13_S4_TCapsule 2_meta,43,male,1662,4,Capsule 2
+SRR18794718,1660_13_S3_TCapsule 3_meta,43,male,1660,3,Capsule 3
+SRR18794719,1658_13_S3_TCapsule 1_meta,43,male,1658,3,Capsule 1
+SRR18794720,1657_13_S2_TCapsule 4_meta,43,male,1657,2,Capsule 4
+SRR18794721,1655_13_S2_TCapsule 2_meta,43,male,1655,2,Capsule 2
+SRR18794722,1654_13_S2_TCapsule 1_meta,43,male,1654,2,Capsule 1
+SRR18794723,1653_13_S1_TCapsule 3_meta,43,male,1653,1,Capsule 3
+SRR18794724,1131_1_S9_TCapsule 4_meta,55,male,1131,9,Capsule 4
+SRR18794725,2163_12_SStool_TStool_meta,65,male,2163,Stool,Stool
+SRR18794726,2162_12_SStool_TStool_meta,65,male,2162,Stool,Stool
+SRR18794727,2161_12_SStool_TStool_meta,65,male,2161,Stool,Stool
+SRR18794728,2160_12_SStool_TStool_meta,65,male,2160,Stool,Stool
+SRR18794729,2159_12_SStool_TStool_meta,65,male,2159,Stool,Stool
+SRR18794730,2151_12_SStool_TStool_meta,65,male,2151,Stool,Stool
+SRR18794731,2143_12_SSaliva_TSaliva_meta,65,male,2143,Saliva,Saliva
+SRR18794732,2142_12_SSaliva_TSaliva_meta,65,male,2142,Saliva,Saliva
+SRR18794733,1619_12_S5_TCapsule 4_meta,65,male,1619,5,Capsule 4
+SRR18794734,1617_12_S5_TCapsule 2_meta,65,male,1617,5,Capsule 2
+SRR18794735,1587_9_S5_TCapsule 3_meta,41,female,1587,5,Capsule 3
+SRR18794736,1586_9_S5_TCapsule 2_meta,41,female,1586,5,Capsule 2
+SRR18794737,1585_9_S5_TCapsule 1_meta,41,female,1585,5,Capsule 1
+SRR18794738,1584_9_S4_TCapsule 3_meta,41,female,1584,4,Capsule 3
+SRR18794739,1583_9_S4_TCapsule 2_meta,41,female,1583,4,Capsule 2
+SRR18794740,1582_9_S4_TCapsule 1_meta,41,female,1582,4,Capsule 1
+SRR18794741,1115_1_S7_TCapsule 3_meta,55,male,1115,7,Capsule 3
+SRR18794742,1581_9_S3_TCapsule 4_meta,41,female,1581,3,Capsule 4
+SRR18794743,1580_9_S3_TCapsule 3_meta,41,female,1580,3,Capsule 3
+SRR18794744,1579_9_S3_TCapsule 2_meta,41,female,1579,3,Capsule 2
+SRR18794745,1578_9_S3_TCapsule 1_meta,41,female,1578,3,Capsule 1
+SRR18794746,1577_9_S2_TCapsule 4_meta,41,female,1577,2,Capsule 4
+SRR18794747,1576_9_S2_TCapsule 3_meta,41,female,1576,2,Capsule 3
+SRR18794748,1575_9_S2_TCapsule 2_meta,41,female,1575,2,Capsule 2
+SRR18794749,1574_9_S2_TCapsule 1_meta,41,female,1574,2,Capsule 1
+SRR18794750,2551_8_SSaliva_TSaliva_meta,20,male,2551,Saliva,Saliva
+SRR18794751,2550_8_SSaliva_TSaliva_meta,20,male,2550,Saliva,Saliva
+SRR18794752,1114_1_S6_TCapsule 1_meta,55,male,1114,6,Capsule 1
+SRR18794753,2561_8_SStool_TStool_meta,20,male,2561,Stool,Stool
+SRR18794754,2560_8_SStool_TStool_meta,20,male,2560,Stool,Stool
+SRR18794755,1231_8_S5_TCapsule 4_meta,20,male,1231,5,Capsule 4
+SRR18794756,1230_8_S5_TCapsule 3_meta,20,male,1230,5,Capsule 3
+SRR18794757,1229_8_S5_TCapsule 2_meta,20,male,1229,5,Capsule 2
+SRR18794758,1228_8_S5_TCapsule 1_meta,20,male,1228,5,Capsule 1
+SRR18794759,1144_3_S4_TCapsule 1_meta,41,male,1144,4,Capsule 1
+SRR18794760,1101_1_S4_TCapsule 4_meta,55,male,1101,4,Capsule 4
+SRR18794761,1142_3_S3_TCapsule 3_meta,41,male,1142,3,Capsule 3
+SRR18794762,1141_3_S3_TCapsule 2_meta,41,male,1141,3,Capsule 2
+SRR18794763,1140_3_S3_TCapsule 1_meta,41,male,1140,3,Capsule 1
+SRR18794764,1139_3_S2_TCapsule 4_meta,41,male,1139,2,Capsule 4
+SRR18794765,1137_3_S2_TCapsule 2_meta,41,male,1137,2,Capsule 2
+SRR18794766,1136_3_S2_TCapsule 1_meta,41,male,1136,2,Capsule 1
+SRR18794767,2468_2_SSaliva_TSaliva_meta,44,female,2468,Saliva,Saliva
+SRR18794768,2467_2_SSaliva_TSaliva_meta,44,female,2467,Saliva,Saliva
+SRR18794769,2477_2_SStool_TStool_meta,44,female,2477,Stool,Stool
+SRR18794770,2476_2_SStool_TStool_meta,44,female,2476,Stool,Stool
+SRR18794771,1100_1_S4_TCapsule 2_meta,55,male,1100,4,Capsule 2
+SRR18794772,1129_2_S5_TCapsule 3_meta,44,female,1129,5,Capsule 3
+SRR18794773,1128_2_S5_TCapsule 1_meta,44,female,1128,5,Capsule 1
+SRR18794774,1127_2_S4_TCapsule 4_meta,44,female,1127,4,Capsule 4
+SRR18794775,1126_2_S4_TCapsule 3_meta,44,female,1126,4,Capsule 3
+SRR18794776,1124_2_S4_TCapsule 1_meta,44,female,1124,4,Capsule 1
+SRR18794777,1106_2_S3_TCapsule 4_meta,44,female,1106,3,Capsule 4
+SRR18794778,1105_2_S3_TCapsule 3_meta,44,female,1105,3,Capsule 3
+SRR18794779,1104_2_S3_TCapsule 2_meta,44,female,1104,3,Capsule 2
+SRR18794780,1103_2_S3_TCapsule 1_meta,44,female,1103,3,Capsule 1
+SRR18794781,1094_2_S2_TCapsule 4_meta,44,female,1094,2,Capsule 4
+SRR18794782,1098_1_S3_TCapsule 3_meta,55,male,1098,3,Capsule 3
+SRR18794783,1602_10_S5_TCapsule 3_meta,39,female,1602,5,Capsule 3
+SRR18794784,1601_10_S5_TCapsule 2_meta,39,female,1601,5,Capsule 2
+SRR18794785,1600_10_S5_TCapsule 1_meta,39,female,1600,5,Capsule 1
+SRR18794786,1599_10_S4_TCapsule 4_meta,39,female,1599,4,Capsule 4
+SRR18794787,1598_10_S4_TCapsule 3_meta,39,female,1598,4,Capsule 3
+SRR18794788,1597_10_S4_TCapsule 2_meta,39,female,1597,4,Capsule 2
+SRR18794789,1596_10_S4_TCapsule 1_meta,39,female,1596,4,Capsule 1
+SRR18794790,1594_10_S3_TCapsule 2_meta,39,female,1594,3,Capsule 2
+SRR18794791,1117_1_S7_TCapsule 3_meta,55,male,1117,7,Capsule 3
+SRR18794792,1593_10_S3_TCapsule 1_meta,39,female,1593,3,Capsule 1
+SRR18794793,1592_10_S2_TCapsule 3_meta,39,female,1592,2,Capsule 3
+SRR18794794,1591_10_S2_TCapsule 2_meta,39,female,1591,2,Capsule 2
+SRR18794795,1590_10_S2_TCapsule 1_meta,39,female,1590,2,Capsule 1
+SRR18794796,1589_10_S1_TCapsule 3_meta,39,female,1589,1,Capsule 3
+SRR18794797,2553_9_SSaliva_TSaliva_meta,41,female,2553,Saliva,Saliva
+SRR18794798,2552_9_SSaliva_TSaliva_meta,41,female,2552,Saliva,Saliva
+SRR18794799,2131_9_SStool_TStool_meta,41,female,2131,Stool,Stool
+SRR18794800,2130_9_SStool_TStool_meta,41,female,2130,Stool,Stool
+SRR18794801,2129_9_SStool_TStool_meta,41,female,2129,Stool,Stool
+SRR18794802,1116_1_S7_TCapsule 3_meta,55,male,1116,7,Capsule 3
+SRR18794803,2128_9_SStool_TStool_meta,41,female,2128,Stool,Stool
+SRR18794804,2127_9_SStool_TStool_meta,41,female,2127,Stool,Stool
+SRR18794805,2126_9_SStool_TStool_meta,41,female,2126,Stool,Stool
+SRR18794806,1588_9_S5_TCapsule 4_meta,41,female,1588,5,Capsule 4
+SRR18794807,1227_8_S4_TCapsule 4_meta,20,male,1227,4,Capsule 4
+SRR18794808,1226_8_S4_TCapsule 3_meta,20,male,1226,4,Capsule 3
+SRR18794809,1225_8_S4_TCapsule 2_meta,20,male,1225,4,Capsule 2
+SRR18794810,1224_8_S4_TCapsule 1_meta,20,male,1224,4,Capsule 1
+SRR18794811,1113_1_S6_TCapsule 1_meta,55,male,1113,6,Capsule 1
+SRR18794812,1223_8_S3_TCapsule 4_meta,20,male,1223,3,Capsule 4
+SRR18794813,1222_8_S3_TCapsule 3_meta,20,male,1222,3,Capsule 3
+SRR18794814,1221_8_S3_TCapsule 2_meta,20,male,1221,3,Capsule 2
+SRR18794815,1220_8_S3_TCapsule 1_meta,20,male,1220,3,Capsule 1
+SRR18794816,1218_8_S2_TCapsule 3_meta,20,male,1218,2,Capsule 3
+SRR18794817,1217_8_S2_TCapsule 2_meta,20,male,1217,2,Capsule 2
+SRR18794818,1216_8_S2_TCapsule 1_meta,20,male,1216,2,Capsule 1
+SRR18794819,1215_8_S1_TCapsule 2_meta,20,male,1215,1,Capsule 2
+SRR18794820,2549_7_SSaliva_TSaliva_meta,61,female,2549,Saliva,Saliva
+SRR18794821,2548_7_SSaliva_TSaliva_meta,61,female,2548,Saliva,Saliva
+SRR18794822,1112_1_S6_TCapsule 1_meta,55,male,1112,6,Capsule 1
+SRR18794823,2559_7_SStool_TStool_meta,61,female,2559,Stool,Stool
+SRR18794824,2558_7_SStool_TStool_meta,61,female,2558,Stool,Stool
+SRR18794825,1241_7_S5_TCapsule 3_meta,61,female,1241,5,Capsule 3
+SRR18794826,1235_7_S4_TCapsule 2_meta,61,female,1235,4,Capsule 2
+SRR18794827,1234_7_S2_TCapsule 3_meta,61,female,1234,2,Capsule 3
+SRR18794828,1233_7_S2_TCapsule 2_meta,61,female,1233,2,Capsule 2
+SRR18794829,1232_7_S1_TCapsule 4_meta,61,female,1232,1,Capsule 4
+SRR18794830,2547_6_SSaliva_TSaliva_meta,63,male,2547,Saliva,Saliva
+SRR18794831,2546_6_SSaliva_TSaliva_meta,63,male,2546,Saliva,Saliva
+SRR18794832,2557_6_SStool_TStool_meta,63,male,2557,Stool,Stool
+SRR18794833,1111_1_S6_TCapsule 1_meta,55,male,1111,6,Capsule 1
+SRR18794834,2556_6_SStool_TStool_meta,63,male,2556,Stool,Stool
+SRR18794835,1213_6_S5_TCapsule 3_meta,63,male,1213,5,Capsule 3
+SRR18794836,1212_6_S5_TCapsule 2_meta,63,male,1212,5,Capsule 2
+SRR18794837,1211_6_S5_TCapsule 1_meta,63,male,1211,5,Capsule 1
+SRR18794838,1210_6_S4_TCapsule 3_meta,63,male,1210,4,Capsule 3
+SRR18794839,1209_6_S4_TCapsule 2_meta,63,male,1209,4,Capsule 2
+SRR18794840,1208_6_S4_TCapsule 1_meta,63,male,1208,4,Capsule 1
+SRR18794841,1206_6_S3_TCapsule 3_meta,63,male,1206,3,Capsule 3
+SRR18794842,1205_6_S3_TCapsule 2_meta,63,male,1205,3,Capsule 2
+SRR18794843,1204_6_S3_TCapsule 1_meta,63,male,1204,3,Capsule 1
+SRR18794844,1123_1_S5_TCapsule 4_meta,55,male,1123,5,Capsule 4
+SRR18794845,1203_6_S2_TCapsule 4_meta,63,male,1203,2,Capsule 4
+SRR18794846,1202_6_S2_TCapsule 3_meta,63,male,1202,2,Capsule 3
+SRR18794847,1201_6_S2_TCapsule 2_meta,63,male,1201,2,Capsule 2
+SRR18794848,1200_6_S2_TCapsule 1_meta,63,male,1200,2,Capsule 1
+SRR18794849,1199_6_S1_TCapsule 3_meta,63,male,1199,1,Capsule 3
+SRR18794850,2474_5_SSaliva_TSaliva_meta,41,female,2474,Saliva,Saliva
+SRR18794851,2473_5_SSaliva_TSaliva_meta,41,female,2473,Saliva,Saliva
+SRR18794852,2484_5_SStool_TStool_meta,41,female,2484,Stool,Stool
+SRR18794853,1182_5_S5_TCapsule 3_meta,41,female,1182,5,Capsule 3
+SRR18794854,1173_5_S3_TCapsule 2_meta,41,female,1173,3,Capsule 2
+SRR18794855,2481_4_SStool_TStool_meta,26,female,2481,Stool,Stool
+SRR18794856,1167_4_S5_TCapsule 4_meta,26,female,1167,5,Capsule 4
+SRR18794857,1166_4_S5_TCapsule 3_meta,26,female,1166,5,Capsule 3
+SRR18794858,1121_1_S5_TCapsule 2_meta,55,male,1121,5,Capsule 2
+SRR18794859,1165_4_S5_TCapsule 2_meta,26,female,1165,5,Capsule 2
+SRR18794860,1164_4_S5_TCapsule 1_meta,26,female,1164,5,Capsule 1
+SRR18794861,1163_4_S4_TCapsule 4_meta,26,female,1163,4,Capsule 4
+SRR18794862,1161_4_S4_TCapsule 2_meta,26,female,1161,4,Capsule 2
+SRR18794863,1160_4_S3_TCapsule 4_meta,26,female,1160,3,Capsule 4
+SRR18794864,1159_4_S3_TCapsule 3_meta,26,female,1159,3,Capsule 3
+SRR18794865,1158_4_S3_TCapsule 2_meta,26,female,1158,3,Capsule 2
+SRR18794866,1156_4_S2_TCapsule 4_meta,26,female,1156,2,Capsule 4
+SRR18794867,1155_4_S2_TCapsule 3_meta,26,female,1155,2,Capsule 3
+SRR18794868,1154_4_S2_TCapsule 2_meta,26,female,1154,2,Capsule 2
+SRR18794869,1120_1_S5_TCapsule 1_meta,55,male,1120,5,Capsule 1
+SRR18794870,1153_4_S2_TCapsule 1_meta,26,female,1153,2,Capsule 1
+SRR18794871,2470_3_SSaliva_TSaliva_meta,41,male,2470,Saliva,Saliva
+SRR18794872,2469_3_SSaliva_TSaliva_meta,41,male,2469,Saliva,Saliva
+SRR18794873,2480_3_SStool_TStool_meta,41,male,2480,Stool,Stool
+SRR18794874,2479_3_SStool_TStool_meta,41,male,2479,Stool,Stool
+SRR18794875,1151_3_S5_TCapsule 4_meta,41,male,1151,5,Capsule 4
+SRR18794876,1149_3_S5_TCapsule 2_meta,41,male,1149,5,Capsule 2
+SRR18794877,1148_3_S5_TCapsule 1_meta,41,male,1148,5,Capsule 1
+SRR18794878,1145_3_S4_TCapsule 2_meta,41,male,1145,4,Capsule 2
+SRR18794879,2172_14_SStool_TStool_meta,32,male,2172,Stool,Stool
+SRR18794880,2171_14_SStool_TStool_meta,32,male,2171,Stool,Stool
+SRR18794881,2170_14_SStool_TStool_meta,32,male,2170,Stool,Stool
+SRR18794882,2169_14_SStool_TStool_meta,31,male,2169,Stool,Stool
+SRR18794883,1134_1_S9_TCapsule 4_meta,55,male,1134,9,Capsule 4
+SRR18794884,2147_14_SSaliva_TSaliva_meta,32,male,2147,Saliva,Saliva
+SRR18794885,2146_14_SSaliva_TSaliva_meta,32,male,2146,Saliva,Saliva
+SRR18794886,1683_14_S5_TCapsule 4_meta,32,male,1683,5,Capsule 4
+SRR18794887,1681_14_S5_TCapsule 1_meta,32,male,1681,5,Capsule 1
+SRR18794888,1680_14_S4_TCapsule 4_meta,32,male,1680,4,Capsule 4
+SRR18794889,1679_14_S4_TCapsule 3_meta,32,male,1679,4,Capsule 3
+SRR18794890,1678_14_S4_TCapsule 2_meta,32,male,1678,4,Capsule 2
+SRR18794891,1675_14_S3_TCapsule 3_meta,32,male,1675,3,Capsule 3
+SRR18794892,1671_14_S2_TCapsule 3_meta,32,male,1671,2,Capsule 3
+SRR18794893,1670_14_S2_TCapsule 2_meta,32,male,1670,2,Capsule 2
+SRR18794894,1133_1_S9_TCapsule 4_meta,55,male,1133,9,Capsule 4
+SRR18794895,2201_13_SStool_TStool_meta,43,male,2201,Stool,Stool
+SRR18794896,2200_13_SStool_TStool_meta,43,male,2200,Stool,Stool
+SRR18794897,2199_13_SStool_TStool_meta,43,male,2199,Stool,Stool
+SRR18794898,2198_13_SStool_TStool_meta,43,male,2198,Stool,Stool
+SRR18794899,2197_13_SStool_TStool_meta,43,male,2197,Stool,Stool
+SRR18794900,2196_13_SStool_TStool_meta,43,male,2196,Stool,Stool
+SRR18794901,2195_13_SStool_TStool_meta,43,male,2195,Stool,Stool
+SRR18794902,2144_13_SSaliva_TSaliva_meta,43,male,2144,Saliva,Saliva
+SRR18794903,1172_5_S3_TCapsule 1_meta,41,female,1172,3,Capsule 1
+SRR18794904,1171_5_S2_TCapsule 3_meta,41,female,1171,2,Capsule 3
+SRR18794905,1170_5_S2_TCapsule 2_meta,41,female,1170,2,Capsule 2
+SRR18794906,1169_5_S2_TCapsule 1_meta,41,female,1169,2,Capsule 1
+SRR18794907,2472_4_SSaliva_TSaliva_meta,26,female,2472,Saliva,Saliva
+SRR18794908,2471_4_SSaliva_TSaliva_meta,26,female,2471,Saliva,Saliva
+SRR18794909,2482_4_SStool_TStool_meta,26,female,2482,Stool,Stool
+SRR18794910,2179_15_SStool_TStool_meta,29,female,2179,Stool,Stool
+SRR18794911,2178_15_SStool_TStool_meta,29,female,2178,Stool,Stool
+SRR18794912,2177_15_SStool_TStool_meta,29,female,2177,Stool,Stool
+SRR18794913,2149_15_SSaliva_TSaliva_meta,29,female,2149,Saliva,Saliva
+SRR18794914,2148_15_SSaliva_TSaliva_meta,29,female,2148,Saliva,Saliva
+SRR18794915,1651_15_S5_TCapsule 3_meta,29,female,1651,5,Capsule 3
+SRR18794916,1185_1_S10_TCapsule 1_meta,55,male,1185,10,Capsule 1
+SRR18794917,1648_15_S4_TCapsule 4_meta,29,female,1648,4,Capsule 4
+SRR18794918,1647_15_S4_TCapsule 3_meta,29,female,1647,4,Capsule 3
+SRR18794919,1646_15_S4_TCapsule 1_meta,29,female,1646,4,Capsule 1
+SRR18794920,1645_15_S3_TCapsule 4_meta,29,female,1645,3,Capsule 4
+SRR18794921,1644_15_S3_TCapsule 3_meta,29,female,1644,3,Capsule 3
+SRR18794922,1643_15_S3_TCapsule 2_meta,29,female,1643,3,Capsule 2
+SRR18794923,1642_15_S3_TCapsule 1_meta,29,female,1642,3,Capsule 1
+SRR18794924,1641_15_S2_TCapsule 4_meta,29,female,1641,2,Capsule 4
+SRR18794925,1640_15_S2_TCapsule 3_meta,29,female,1640,2,Capsule 3
+SRR18794926,1639_15_S2_TCapsule 2_meta,29,female,1639,2,Capsule 2
+SRR18794927,1184_1_S10_TCapsule 1_meta,55,male,1184,10,Capsule 1
+SRR18794928,1638_15_S2_TCapsule 1_meta,29,female,1638,2,Capsule 1
+SRR18794929,1637_15_S1_TCapsule 2_meta,29,female,1637,1,Capsule 2
+SRR18794930,2176_14_SStool_TStool_meta,32,male,2176,Stool,Stool
+SRR18794931,2175_14_SStool_TStool_meta,32,male,2175,Stool,Stool
+SRR18794932,2174_14_SStool_TStool_meta,32,male,2174,Stool,Stool
+SRR18794933,2173_14_SStool_TStool_meta,32,male,2173,Stool,Stool
+SRR18794934,1633_11_S5_TCapsule 1_meta,31,female,1633,5,Capsule 1
+SRR18794935,1632_11_S4_TCapsule 4_meta,31,female,1632,4,Capsule 4
+SRR18794936,1631_11_S4_TCapsule 3_meta,31,female,1631,4,Capsule 3
+SRR18794937,1630_11_S4_TCapsule 2_meta,31,female,1630,4,Capsule 2
+SRR18794938,1629_11_S4_TCapsule 1_meta,31,female,1629,4,Capsule 1
+SRR18794939,1628_11_S3_TCapsule 4_meta,31,female,1628,3,Capsule 4
+SRR18794940,1627_11_S3_TCapsule 3_meta,31,female,1627,3,Capsule 3
+SRR18794941,1626_11_S3_TCapsule 2_meta,31,female,1626,3,Capsule 2
+SRR18794942,1625_11_S3_TCapsule 1_meta,31,female,1625,3,Capsule 1
+SRR18794943,1107_1_S8_TCapsule 2_meta,55,male,1107,8,Capsule 2
+SRR18794944,1093_1_S2_TCapsule 3_meta,55,male,1093,2,Capsule 3
+SRR18794945,1624_11_S2_TCapsule 4_meta,31,female,1624,2,Capsule 4
+SRR18794946,1623_11_S2_TCapsule 3_meta,31,female,1623,2,Capsule 3
+SRR18794947,1622_11_S2_TCapsule 2_meta,31,female,1622,2,Capsule 2
+SRR18794948,1621_11_S2_TCapsule 1_meta,31,female,1621,2,Capsule 1
+SRR18794949,2150_10_SStool_TStool_meta,39,female,2150,Stool,Stool
+SRR18794950,2137_10_SStool_TStool_meta,39,female,2137,Stool,Stool
+SRR18794951,2136_10_SStool_TStool_meta,39,female,2136,Stool,Stool
+SRR18794952,2135_10_SStool_TStool_meta,39,female,2135,Stool,Stool
+SRR18794953,2134_10_SStool_TStool_meta,39,female,2134,Stool,Stool
+SRR18794954,2555_10_SSaliva_TSaliva_meta,39,female,2555,Saliva,Saliva
+SRR18794955,1118_1_S7_TCapsule 3_meta,55,male,1118,7,Capsule 3
+SRR18794956,2554_10_SSaliva_TSaliva_meta,39,female,2554,Saliva,Saliva
+SRR18794957,1603_10_S5_TCapsule 4_meta,39,female,1603,5,Capsule 4
+SRR18794958,1122_1_S5_TCapsule 3_meta,55,male,1122,5,Capsule 3
+SRR18794959,1090_1_S2_TCapsule 2_meta,55,male,1090,2,Capsule 2
+SRR18794960,1095_1_S2_TCapsule 1_meta,55,male,1095,2,Capsule 1
