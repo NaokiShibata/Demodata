@@ -1,0 +1,52 @@
+Bootstrap: docker
+From: ubuntu:22.04
+
+%post
+    # Install 
+	apt update && apt upgrade -y 
+	apt install -y \
+        wget
+
+    # make directory
+    mkdir -p /opt
+
+    # Install miniconda
+    wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh
+    bash Miniconda3-latest-Linux-x86_64.sh -b -p /opt/miniconda3
+
+    . /opt/miniconda3/etc/profile.d/conda.sh
+    
+    # Activate
+    conda activate base
+    conda update --yes --all
+
+    # set channel
+    #conda config --append channels conda-forge
+    #conda config --append channels bioconda
+    
+    # Install mamba
+    conda install conda-forge::mamba
+
+    # Install qiime2 amplicon 2024.02 
+    wget https://data.qiime2.org/distro/amplicon/qiime2-amplicon-{{ qiime2_version }}-py38-linux-conda.yml
+    mamba env create -n qiime2-amplicon-{{ qiime2_version }} --file qiime2-amplicon-{{ qiime2_version }}-py38-linux-conda.yml
+    conda activate qiime2-amplicon-{{ qiime2_version }}
+
+    # Install plugin
+    pip install q2-greengenes2
+
+    # cache clear
+    conda clean -a
+
+%environment
+    # Setting variable for run
+    export PATH=/opt:/opt/miniconda3/bin:/opt/miniconda3/envs/qiime2-amplicon-{{ qiime2_version }}/bin:${PATH}
+    export LC_ALL=C.UTF-8
+
+%labels
+    Author N.Shibata
+    Build_date 2024.04.21
+    Version v1.0
+
+%help
+	This container for 16s amplicon sequence analysis using qiime2 version 2024.02.
