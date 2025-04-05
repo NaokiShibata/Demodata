@@ -107,9 +107,7 @@ SRR769514_stool_Whole	SRR769514_paired_2.fastq.gz	pair2
 SRR769515_stool_Whole	SRR769515_paired_1.fastq.gz	pair1		
 SRR769515_stool_Whole	SRR769515_paired_2.fastq.gz	pair2		
 SRR769516_stool_ETOH	SRR769516_paired_1.fastq.gz	pair1		
-SRR769516_stool_ETOH	SRR769516_paired_2.fastq.gz	pair2		
-SRR769517_saliva_Saliva	SRR769517_paired_1.fastq.gz	pair1		
-SRR769517_saliva_Saliva	SRR769517_paired_2.fastq.gz	pair2		
+SRR769516_stool_ETOH	SRR769516_paired_2.fastq.gz	pair2			
 SRR769518_stool_Whole	SRR769518_paired_1.fastq.gz	pair1		
 SRR769518_stool_Whole	SRR769518_paired_2.fastq.gz	pair2		
 SRR769519_stool_ETOH	SRR769519_paired_1.fastq.gz	pair1		
