@@ -1,0 +1,5 @@
+sample_id,read1,read2
+SRR18585214,sequence/SRR18585214_1.fastq.gz,sequence/SRR18585214_2.fastq.gz
+SRR18585215,sequence/SRR18585215_1.fastq.gz,sequence/SRR18585215_2.fastq.gz
+SRR18585216,sequence/SRR18585216_1.fastq.gz,sequence/SRR18585216_2.fastq.gz
+SRR18585217,sequence/SRR18585217_1.fastq.gz,sequence/SRR18585217_2.fastq.gz
